@@ -62,7 +62,7 @@ restart_quiz.onclick = () => {
 
 // if quitQuiz button clicked
 quit_quiz.onclick = () => {
-  window.location.href = "/index.html"; //reload the current window
+  window.location.href = "https://knotsid.github.io/Quiz-app/"; //reload the current window
 };
 
 const next_btn = document.querySelector("footer .next_btn");
